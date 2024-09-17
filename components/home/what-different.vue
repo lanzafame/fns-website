@@ -15,8 +15,8 @@
       />
       <ul class="text-2xl text-[#333333] font-bold <md:text-xl">
         <li>- Based on FEVM</li>
-        <li class="my-10 <md:my-6">- Open-soureced</li>
-        <li>- Govened by DAO</li>
+        <li class="my-10 <md:my-6">- Open-sourced</li>
+        <li>- Governed by DAO</li>
       </ul>
     </div>
   </div>
